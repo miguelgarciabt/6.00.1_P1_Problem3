@@ -1,4 +1,6 @@
 
+#This code finds the longest substring of s that is in alphabetical order.
+
 s = 'bzyxabb' #This is what we're looking at
 longestRun = s[0] #This is what we want to print.
 #started with first index in the event that there is no substring larger than len() = 1
